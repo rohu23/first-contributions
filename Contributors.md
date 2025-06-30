@@ -757,6 +757,7 @@ Mohamed Farah
 -[FluffySce - Farhan Khan](https://github.com/FluffySce)
 -[Cat Young](https://github.com/CatYoung018/CatYoung018)
 -[Rohit Lal](https://github.com/rohitllal)
+-[Rohit T](https://github.com/rohu23)
 -[Tony Karanja]
 - [GoldenAppler] (https://github.com/GoldenAppler-Eng)
 -[DexterWard](https://github.com/DexterWard)
